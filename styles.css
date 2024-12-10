@@ -148,10 +148,11 @@ footer {
 }
 
 
+/* separacion entre cada tarjetas de proyectos */
 .dashboard-grid {
     display: flex;
     justify-content: space-between;
-    gap: 20px;
+    gap: 10px;
     margin-top: 20px;
 }
 
@@ -194,3 +195,6 @@ footer {
     color: #555;
     margin: 20px;
 }
+
+
+
